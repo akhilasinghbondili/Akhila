@@ -38,10 +38,10 @@ body{
     margin: 15px 0;
     font-size: 27px;
     font-weight: 600;
-    color: chartreuse;
+    color: rgb(21, 24, 19);
 }
 .contact h2{
-color: chartreuse;
+color: rgb(11, 12, 11);
 }
 .contact p {
     font-size: 21px;
